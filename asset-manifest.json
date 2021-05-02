@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-probooks/static/css/main.23ad3e08.chunk.css",
+    "main.js": "/react-probooks/static/js/main.1501ba88.chunk.js",
+    "main.js.map": "/react-probooks/static/js/main.1501ba88.chunk.js.map",
+    "runtime-main.js": "/react-probooks/static/js/runtime-main.a90129f6.js",
+    "runtime-main.js.map": "/react-probooks/static/js/runtime-main.a90129f6.js.map",
+    "static/js/2.35d24690.chunk.js": "/react-probooks/static/js/2.35d24690.chunk.js",
+    "static/js/2.35d24690.chunk.js.map": "/react-probooks/static/js/2.35d24690.chunk.js.map",
+    "static/js/3.a163dbe6.chunk.js": "/react-probooks/static/js/3.a163dbe6.chunk.js",
+    "static/js/3.a163dbe6.chunk.js.map": "/react-probooks/static/js/3.a163dbe6.chunk.js.map",
+    "index.html": "/react-probooks/index.html",
+    "static/css/main.23ad3e08.chunk.css.map": "/react-probooks/static/css/main.23ad3e08.chunk.css.map",
+    "static/js/2.35d24690.chunk.js.LICENSE.txt": "/react-probooks/static/js/2.35d24690.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-probooks/static/media/arrow-drop-down.4378492a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90129f6.js",
+    "static/js/2.35d24690.chunk.js",
+    "static/css/main.23ad3e08.chunk.css",
+    "static/js/main.1501ba88.chunk.js"
+  ]
+}
